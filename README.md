@@ -1,5 +1,8 @@
 # IssueTracker-09 / 3주 그룹 프로젝트
 
+<p align="center">
+<img src="https://github.com/qkrdmstlr3/svg-icon-animation/blob/master/github-icon/github-icon.gif" alt="github-icon" width="200" height="200" />
+</p>
 
 ## 그룹 인원 🧑🏻‍💻
 
@@ -9,7 +12,7 @@
 
 ## 주간 계획
 
-1주차 : 설계, 기능 개발 
+1주차 : 설계, 기능 개발
 
 2주차 : 기능 개발, 테스트
 
@@ -17,9 +20,9 @@
 
 ## 팀 그라운드 룰(룰, GitHub ...)
 
-[공통](https://github.com/boostcamp-2020/IssueTracker-09/wiki/(%ED%8C%80%EA%B7%B8%EB%9D%BC%EC%9A%B4%EB%93%9C%EB%A3%B0)---%EA%B3%B5%ED%86%B5)
+[공통](<https://github.com/boostcamp-2020/IssueTracker-09/wiki/(%ED%8C%80%EA%B7%B8%EB%9D%BC%EC%9A%B4%EB%93%9C%EB%A3%B0)---%EA%B3%B5%ED%86%B5>)
 
-[iOS](https://github.com/boostcamp-2020/IssueTracker-09/wiki/(%ED%8C%80%EA%B7%B8%EB%9D%BC%EC%9A%B4%EB%93%9C%EB%A3%B0)---iOS)
+[iOS](<https://github.com/boostcamp-2020/IssueTracker-09/wiki/(%ED%8C%80%EA%B7%B8%EB%9D%BC%EC%9A%B4%EB%93%9C%EB%A3%B0)---iOS>)
 
 [JS](https://www.notion.so/JS-b853cf8117d84587925001767ab955ed)
 
@@ -31,10 +34,10 @@
 
 - 데이터베이스 (ERD)
 
-    [IssueTracker09](https://www.erdcloud.com/d/zahixjNPz8acSNZAB)
-    
+  [IssueTracker09](https://www.erdcloud.com/d/zahixjNPz8acSNZAB)
+
 - API (PostMan)
 
 - Feature List (iOS)
 
-    [Google Sheets - create and edit spreadsheets online, for free.](https://docs.google.com/spreadsheets/d/1c4khN9WnOH5Y188t8uiwruJ2TbhPEZDRNfFqx7ItewE/edit#gid=0)
+  [Google Sheets - create and edit spreadsheets online, for free.](https://docs.google.com/spreadsheets/d/1c4khN9WnOH5Y188t8uiwruJ2TbhPEZDRNfFqx7ItewE/edit#gid=0)
