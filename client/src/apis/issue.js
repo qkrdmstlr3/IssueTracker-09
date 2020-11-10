@@ -30,7 +30,6 @@ const getIssueByIdAPI = async (id) => {
 
 const updateAssigneeAPI = async (id, assigneeId, joined) => {
   try {
-    console.log(id, assigneeId, joined);
     await request({
       method: 'PUT',
       params: `/issue/assignee/${id}`,
@@ -79,9 +78,6 @@ const updateLabelAPI = async (id, labelId, joined) => {
   }
 };
 
-const updateTitleAPI = async () => {};
-
-// export default getIssueByIdAPI;
 export {
   getListAPI,
   getIssueByIdAPI,
